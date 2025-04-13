@@ -1,0 +1,23 @@
+/* * selector {
+            key: value; property - Thuộc tính
+            key2: value2
+            ...
+            keyN: valueN
+        } */
+        *{
+            box-sizing: border-box;
+            margin:0;
+            padding:0;
+         }
+         *{
+            padding-bottom: 20px ;}
+         
+         .class01 img {
+            height: 345px;
+         }
+         .class01 h2 {
+            color: rgb(66, 69, 94);
+         }
+         .class01 p {
+            color: rgb(80, 80, 80);
+         }
